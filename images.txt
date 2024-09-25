@@ -1,1 +1,1 @@
-${DATAHUB_FRONTEND_IMAGE:-acryldata/datahub-frontend-react}:${DATAHUB_VERSION:-head}
+acryldata/datahub-frontend-react:head
