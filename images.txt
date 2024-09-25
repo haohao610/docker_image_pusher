@@ -1,1 +1,11 @@
 acryldata/datahub-frontend-react:head
+acryldata/datahub-actions:head
+acryldata/datahub-gms:head
+acryldata/datahub-upgrade:head
+acryldata/datahub-elasticsearch-setup:head
+acryldata/datahub-kafka-setup:head
+elasticsearch:7.10.1
+neo4j:4.4.9-community
+confluentinc/cp-schema-registry:7.4.0
+confluentinc/cp-kafka:7.4.0
+confluentinc/cp-zookeeper:7.4.0
