@@ -1,1 +1,1 @@
-acryldata/datahub-elasticsearch-setup:head
+acryldata/datahub-upgrade:head
