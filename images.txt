@@ -1,2 +1,1 @@
-acryldata/datahub-mysql-setup:head
-mysql:8.2
+acryldata/datahub-elasticsearch-setup:head
