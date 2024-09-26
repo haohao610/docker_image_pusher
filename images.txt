@@ -1,5 +1,4 @@
 acryldata/datahub-frontend-react:68fb97f
-acryldata/datahub-actions:68fb97f
 acryldata/datahub-gms:68fb97f
 acryldata/datahub-upgrade:68fb97f
 acryldata/datahub-elasticsearch-setup:68fb97f
