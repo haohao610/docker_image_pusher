@@ -1,1 +1,1 @@
-acryldata/datahub-mysql-setup:68fb97f
+acryldata/datahub-ingestion:68fb97f
