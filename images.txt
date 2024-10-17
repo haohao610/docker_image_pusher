@@ -1,1 +1,1 @@
-acryldata/datahub-ingestion:68fb97f
+rabbitmq:management
